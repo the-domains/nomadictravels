@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NomadicTravels]]></title>
+        <description><![CDATA[NomadicTravels]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 01:18:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my form of architectural heaven]]></title>
+            <description><![CDATA[<article><h1>Welcome to my form of architectural heaven</h1><p>A sublimely ecstatic Vanessa enveloped by an environment she dreams of recreating</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f9725a-d229-40e9-b649-0a5b047e5544.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-my-form-of-architectural-heaven/index.html</link>
+            <guid isPermaLink="false">a45fe6f0-bfe7-44e6-b1d2-ab01464ffc76</guid>
+            <pubDate>Thu, 21 Jul 2016 01:18:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
